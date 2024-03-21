@@ -9,7 +9,8 @@ Creating beautiful works of art through Neural Style Transfer tecnique
 ## Golden Gate by Monet
 ![image](https://github.com/BorisMartinez-AI/Neural_Style_Transfer/assets/110473221/6d21ee13-9a26-4c68-b5d4-b4294b1ae197)
 ## Eiffel Tower in SandStone texture
-![image](https://github.com/BorisMartinez-AI/Neural_Style_Transfer/assets/110473221/09b44524-fa89-4c0b-bf01-fc076114e563)
+![image](https://github.com/BorisMartinez-AI/Neural_Style_Transfer/assets/110473221/52a7fcee-ccf6-4bba-b791-64df5cf694a8)
+
 
 ----------------------------------------------
 ## The steps to achieve these images are:
